@@ -19,6 +19,10 @@ body {
     margin: auto;
     padding: 1em;
     width: 80%;
+    background-color: beige;
+    height: 600px;
+    border: 1px solid grey;
+    border-radius: 5px;
 }
 
 .destination-container {
